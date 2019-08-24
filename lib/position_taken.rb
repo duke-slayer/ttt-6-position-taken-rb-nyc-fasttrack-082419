@@ -2,5 +2,7 @@
 
 def position_taken?(board, index)
   if board == " "
+    puts = index
   else 
+    puts "Position Taken"
 end 
