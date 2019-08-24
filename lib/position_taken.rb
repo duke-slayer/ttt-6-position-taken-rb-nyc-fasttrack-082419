@@ -4,5 +4,4 @@ require_relative '../lib/position_taken.rb'
 def position_taken?(board, index)
   if board == " "
     puts "X"
-  else
 end 
